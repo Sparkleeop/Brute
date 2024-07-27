@@ -15,6 +15,8 @@ Minimal Python version: Python 3.8
 ### 💻 Linux
 `pip install Python3.8`
 
+`pip install pystyle`
+
 `git clone https://github.com/Sparkleeop/Brute/`
 
 `cd Brute`
