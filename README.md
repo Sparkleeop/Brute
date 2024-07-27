@@ -1,5 +1,5 @@
 # Minecraft stress tester
-🤖 A simple open source app written in Python used for stress testing Minecraft servers with ddos. [Always ask your host service if you can use this]  
+🤖 A simple open source app written in Python used for stress testing Minecraft servers with ddos.
 💥 It can be also used to test your ddos protection provider. 
 
 ## 🆒 Features
@@ -13,6 +13,8 @@ Minimal Python version: Python 3.8
 
 ## ⚡ Installation
 ### 💻 Linux
+`pip install Python3.8`
+
 `git clone https://github.com/Sparkleeop/Brute/`
 
 `cd Brute`
