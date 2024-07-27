@@ -14,5 +14,7 @@ Minimal Python version: Python 3.8
 ## ⚡ Installation
 ### 💻 Linux
 `git clone https://github.com/Sparkleeop/Brute/`
+
 `cd Brute`
+
 `python3 Brute.py`
